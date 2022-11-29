@@ -24,11 +24,11 @@ I am involved with a variety of genres of repair & design:
 
 ## Navigate
 
-<button href="zioniyes.github.io/album" style="padding: 18px 32px; border-radius: 5px; border: 3px solid #502099; background-colour: #fefefe; font-size: 125%;">
-    <span style="font-weight: bold; font-size: 150%;">
-        <i style="vertical-align: middle; fill: " class="bi bi-camera"></i>
-    </span>
-    <span><b>Album:</b> Photography albums & showcases</span>  
+<button href="zioniyes.github.io/album">
+    <h2 style="padding: 8px 20px 0px 20px">
+        <span style="font-size: 150%; font-weight: bold;"><i class="bi bi-camera"></i></span>
+        <span><b>Album:</b> Photography albums & showcases</span>  
+    </h2>
 </button>
 
 ## Contact
