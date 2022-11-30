@@ -4,7 +4,7 @@
 
 ---
 
-[Photo gallery](https://zioniyes.github.io/gallery) | [Services](services) | [Contact](contact)
+[<i class="bi bi-camera"></i>Photo gallery](https://zioniyes.github.io/gallery) | [Services](services) | [Contact](contact)
 
 ## About me
 
@@ -25,15 +25,6 @@ I am involved with a variety of genres of repair & design:
 - Customizations
 - Assembly and/or design of new equipment
 - Speaker design (coop w/ Ruben Boucké)
-
-## Navigate
-
-<button href="zioniyes.github.io/album">
-    <h2 style="padding: 8px 20px 0px 20px">
-        <span style="font-size: 150%; font-weight: bold;"><i class="bi bi-camera"></i></span>
-        <span><b>Album:</b> Photography albums & showcases</span>  
-    </h2>
-</button>
 
 ## Contact
 
