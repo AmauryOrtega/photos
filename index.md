@@ -1,6 +1,10 @@
-# ZionIyes
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
+
+<img style="width: 250px; height: auto" src="/assets/img/zioniyes-rainbow-sm-trim.png" />
+
+---
+
+[Photo gallery](https://zioniyes.github.io/gallery) | [Services](services) | [Contact](contact)
 
 ## About me
 
@@ -35,4 +39,6 @@ I am involved with a variety of genres of repair & design:
 
 You can contact me in various ways. The quickest way as of now, is to send me a twitter message: <https://twitter.com/BittieBot125>
 
-<img style="margin: 25px auto" src="/assets/img/zioniyes-rainbow-sm-trim.png" />
+---
+
+This site on GitHub: <https://github.com/ZionIyes/zioniyes.github.io> 
