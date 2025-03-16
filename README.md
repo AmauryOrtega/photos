@@ -1,3 +1,3 @@
-# zioniyes.github.io
+# amauryortega.com
 
-This repo hosts my portfolio's front page (zioniyes.me)
+This repo hosts my photography portfolio  page (amauryortega.com)
